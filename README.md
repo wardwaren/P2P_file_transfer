@@ -1,6 +1,6 @@
-#P2P Fil transfer application
+# P2P Fil transfer application
 
-###Description
+### Description
 
 This is a simple P2P file transfer application.
 
@@ -13,7 +13,7 @@ Then client can search for files shared by other users with server and download 
 
 Think Torrent but much much simpler.
 
-###Execution:
+### Execution:
 
 To run server execute Server.py
 To run client execute Client.py
